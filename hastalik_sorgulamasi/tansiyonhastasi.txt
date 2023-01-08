@@ -1,8 +1,8 @@
 tansiyon(kevser,12).
 ates(kevser,34).
 midebulantisi(kevser).
-%ahmetin mide bulantısı olduğunu belirttik
-%ahmetin baş dönmesi olmadığı için belirtmeye gerek yok
+%kevserin mide bulantısı olduğunu belirttik
+%kevserin baş dönmesi olmadığı için belirtmeye gerek yok
 
 tansiyon(hatice,15).
 ates(hatice,35).
@@ -16,8 +16,6 @@ tansiyon(firdevs,18).
 ates(firdevs,40).
 midebulantisi(firdevs).
 basdonmesi(firdevs).
-
-
 
 %türkçe karakter kullanmıyoruz, hata veriyor prolog
 
